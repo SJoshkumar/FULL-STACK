@@ -1,3 +1,5 @@
+Technical Abrivations.
+
 hmtl - Hyper text markpu language
 css - cascading style sheets
 js - javascript
